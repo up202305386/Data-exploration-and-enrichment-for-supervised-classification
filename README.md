@@ -11,3 +11,7 @@ In this project, the goal is to address a real data science use case from data c
 ● Data Evaluation: Classification results should be compared across different evaluation metrics (performance during learning, confusion matrix, ROC/AUC, precision, recall, accuracy) using a standard train/test split. Results should be compared using tables and plots (e.g., using Seaborn or Matplotlib libraries). Other partitioning methods are considered “extra elements”.
 
 ● Interpretation of Results: This involves extracting meaningful insights from the obtained results: explain the behavior of the models, drawing conclusions about the effectiveness of the chosen algorithms and preprocessing techniques, providing recommendations for future analysis, investigating discrepancies of unexpected findings, etc.
+
+dados sobre os pacientes:
+<img width="800" alt="image" src="https://github.com/up202305139/Data-exploration-and-enrichment-for-supervised-classification/assets/166402935/71b5f301-82d4-4603-a8e3-63ccd6cb9c95">
+
